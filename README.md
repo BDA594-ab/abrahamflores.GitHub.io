@@ -2,8 +2,10 @@
 
 # Dataset
 The Uber dataset is a collection of information from the year 2024. It includes data about streaming patterns, financial behaviors, location services, and more.
+
 # URL for Dataset
 https://www.kaggle.com/datasets/yashdevladdha/uber-ride-analytics-dashboard
+
 # Application for Dataset
 Analyst can use this dataset for a variety of reasons. They can have a visual understanding of where the majority of there customers are located that way more uber drivers can be placed there. Or they can have a better understanding of why cancelation rates are higher in some areas rather than others. These are just a couple of application that analyst can use to make Uber more effective.
 
